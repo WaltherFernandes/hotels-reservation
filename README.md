@@ -1,56 +1,29 @@
-# Hotel Samurai
+# WAAF Hotels
+Hey, how you doing?
+You around here? Now I'm really happy. Enjoy my repositories there!
 
-Olá, tudo bem?
+## About the project
 
-Fico agradecido e feliz por você está por aqui vendo um dos meus projetos.
+The idea of the project is develop an application (template) totally focused on tourism companies, that is, that provide accommodation options for the final user.
 
-Segue abaixo mais detalhes do mesmo.
+In this application it is possible for the company to register, for example, its hotels and inns, and the client through this platform will be able to do a search of the best options taking into account the benefits of each one of them as well as the price to be paid.
 
-## Sobre o projeto
+The technologies that are being used in this project are:
 
-Esse é um projeto totalmente focado para os alunos do curso de Front end Master da Dev Samurai.
-
-Caso tenha interesse em conhecer, o link é este aqui: [https://devsamurai.com.br](https://devsamurai.com.br)
-
-A ideia do projeto é de desenvolver uma aplicação (template) totalmente focada em empresas de turismos, ou seja, que forneçam opções de hospedagem para o usuário final.
-
-Nessa aplicação é possível que a empresa cadastre por exemplos, os seus hotéis e pousadas, e o cliente através dessa plataforma irá poder fazer uma pesquisa das melhores opções levando em consideração os benefícios de cada uma delas como também, o preço a se pagar.
-
-As tecnologias que estão sendo usadas neste projeto são:
-
-1. Bootstrap (V5).
-2. CSS.
-3. JavaScript.
+[x] Bootstrap (V5).
+[x] CSS.
+[x] JavaScript.
 
 Segue abaixo alguns screenshots do projeto:
 
-![Hotel Samurai](./assets/img/screenshots/home-01.png)
-![Hotel Samurai](./assets/img/screenshots/home-02.png)
-![Hotel Samurai](./assets/img/screenshots/home-03.png)
-![Hotel Samurai](./assets/img/screenshots/home-04.png)
-![Hotel Samurai](./assets/img/screenshots/home-05.png)
-![Hotel Samurai](./assets/img/screenshots/home-06.png)
-![Hotel Samurai](./assets/img/screenshots/all-01.png)
-![Hotel Samurai](./assets/img/screenshots/all-02.png)
-![Hotel Samurai](./assets/img/screenshots/available-01.png)
+![WAAF Hotels](./assets/img/screenshots/home-01.png)
+![WAAF Hotels](./assets/img/screenshots/home-02.png)
+![WAAF Hotels](./assets/img/screenshots/home-03.png)
+![WAAF Hotels](./assets/img/screenshots/home-04.png)
+![WAAF Hotels](./assets/img/screenshots/home-05.png)
+![WAAF Hotels](./assets/img/screenshots/home-06.png)
+![WAAF Hotels](./assets/img/screenshots/all-01.png)
+![WAAF Hotels](./assets/img/screenshots/all-02.png)
+![WAAF Hotels](./assets/img/screenshots/available-01.png)
 
-
-## Status/Andamento
-
-Em desenvolvimento.
-
-## Observações importantes
-
-Caso queira clonar o repositório ou utilizar em algum projeto pessoal, por favor, dá os devidos créditos. 
-
-Ficarei muito grato! :D
-
-## Contato
-
-E-mail: carlos.contato00@gmail.com
-
-Website: [https://carloseduardo.dev](https://carloseduardo.dev)
-
-Atenciosamente,
-
-Cadu.
+Note: This project was done with the aim of training CSS skills.
