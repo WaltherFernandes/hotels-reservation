@@ -27,10 +27,5 @@ Segue abaixo alguns screenshots do projeto:
 ![WAAF Hotels](https://i.imgur.com/gk5Lo50.png)
 ![WAAF Hotels](https://i.imgur.com/6FkXgz5.png)
 ![WAAF Hotels](https://i.imgur.com/S3UJ2cw.png)
-![WAAF Hotels](https://i.imgur.com/gk5Lo50.png)
-![WAAF Hotels](https://i.imgur.com/gk5Lo50.png)
-![WAAF Hotels](https://i.imgur.com/gk5Lo50.png)
-![WAAF Hotels](https://i.imgur.com/gk5Lo50.png)
-![WAAF Hotels](https://i.imgur.com/gk5Lo50.png)
 
 Note: This project was done with the aim of training CSS skills.
